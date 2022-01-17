@@ -1,3 +1,5 @@
+[![OS](https://img.shields.io/badge/os-linux-blue.svg)](https://shields.io/)
+
 # SYRACUSE PROJECT
 
 Syracuse's conjecture implemented in C and Bash scripting to analyse and visualize data using Gnuplot.
