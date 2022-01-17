@@ -7,9 +7,9 @@
 #include <stdio.h>
 #include <stdlib.h>
 
-/* Usage: ./syracuse n nf.dat
+/* Usage: ./syracuse n fn.dat
 * n         strictly positive integer. 
-* nf.dat    file name containing the integer n.
+* fn.dat    file name containing integer n.
 */
 
 int main(int argc, char **argv)
